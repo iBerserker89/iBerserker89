@@ -1,6 +1,6 @@
 # Hi there! 
 
-I’m Luciano Barros, I'm a Systems Analisys and Development student.
+I’m Luciano Barros, I'm a Frontend Developer looking forward to become a Fullstack Developer.
 
 
 
